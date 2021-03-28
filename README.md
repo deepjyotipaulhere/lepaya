@@ -18,3 +18,4 @@ To run the project, please follow these steps:
   * open a browser and navigate to `http://localhost:3000` to view the webpage
 
 # Screenshots
+Screenshots of the working app are placed in the root folder
